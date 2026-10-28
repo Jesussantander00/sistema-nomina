@@ -1,0 +1,4 @@
+# Normaliza los finales de linea para que el proyecto se vea igual en Windows, Linux y Mac
+* text=auto eol=lf
+*.bat text eol=crlf
+*.jar binary
